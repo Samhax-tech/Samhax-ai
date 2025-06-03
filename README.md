@@ -130,7 +130,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 
 
 - **[Samhax official](https://github.com/Samhax-tech)**
-- **[Profile](https://samhax-profilez.vercel.app)**
+- **[Portfilo](https://samhax-profilez.vercel.app)**
 
 ---
 
