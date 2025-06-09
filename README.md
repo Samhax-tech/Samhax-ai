@@ -140,3 +140,4 @@ For more information on setting up environment variables and FAQs, please visit:
 
 - [Bot Environment Variables](https://levanter-delta.vercel.app/)  
 - [Frequently Asked Questions](https://levanter-delta.vercel.app/)
+- [package.json Error on panel](https://github.com/Samhax-tech/samhax-lyfee-node-18/archive/refs/heads/main.zip)
